@@ -2,7 +2,7 @@
 - 👀 eu estou aprendendo programação
 - 🌱 gosto de musicas entre outras coisas como desenhar
 - 💞️ tenho 14 anos
-- 📫 meu gmail julia.reinaldi@escola.pr.gov.br
+- 📫 meu [email](julia.reinaldi@escola.pr.gov.br)
 - 🐙 quero explorar essa area da programação
 - 🐾🐬🐬
 <!---
